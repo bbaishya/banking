@@ -12,7 +12,7 @@
 	<description>REST API, Hibernate, Spring, Java, Database</description>
 	<!-- <url>http://maven.apache.org</url> -->
 	<properties>
-		<springframework.version>4.3.4.RELEASE</springframework.version>
+		<springframework.version>5.2.22.RELEASE</springframework.version>
 		<springsecurity.version>4.2.15.RELEASE</springsecurity.version>
 		<jackson.library>2.10.3</jackson.library>
 		<groupId>org.bipul.banking</groupId>
